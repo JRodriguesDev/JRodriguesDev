@@ -1,12 +1,13 @@
 ### Bem-vindo(a) ao perfil de JRodriguesDev
 <div>
+<div align="center">
   <a href="https://github.com/JRodriguesDev">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JRodriguesDev&theme=radical&show_icons=true" />
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=JRodriguesDev&theme=radical" alt="GitHub Streak Stats" />
   </a>
   <a href="https://github.com/JRodriguesDev">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JRodriguesDev&layout=compact&langs_count=8&theme=radical" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=JRodriguesDev&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
   </a>
-</div>
+</div>>
 
 ## 🛠️ Tecnologias e Ferramentas
 
