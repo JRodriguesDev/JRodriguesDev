@@ -1,13 +1,12 @@
-### Bem-vindo(a) ao perfil de JRodriguesDev
-<div>
 <div align="center">
+  <h1>🚀 Bem-vindo(a) ao perfil de JRodriguesDev</h1>
+  
   <a href="https://github.com/JRodriguesDev">
     <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=JRodriguesDev&theme=radical" alt="GitHub Streak Stats" />
   </a>
-  <a href="https://github.com/JRodriguesDev">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=JRodriguesDev&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
-  </a>
-</div>>
+</div>
+
+<br />
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -35,9 +34,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Canais de Comunicação
+## 📞 Canais de Comunicação
 <div> 
-  <a href="https://www.instagram.com/jose.rodriguess1/"_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
+  <a href="https://www.instagram.com/jose.rodriguess1/"_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:0joserodrigues0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jos%C3%A9-rodrigues-1134bb385/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
