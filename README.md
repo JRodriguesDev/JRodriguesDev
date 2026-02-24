@@ -2,7 +2,7 @@
   <h1>🚀 Bem-vindo(a) ao perfil de JRodriguesDev</h1>
   
   <a href="https://github.com/JRodriguesDev">
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=JRodriguesDev&theme=radical" alt="GitHub Streak Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRodriguesDev&layout=compact&theme=radical&hide_border=false" alt="Most Used Languages" />
   </a>
 </div>
 
